@@ -7,3 +7,4 @@
 |5.| [Fibonacci Till N](https://nados.io/question/print-fibonacci-numbers-till-n?zen=true)| [26-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/FibonacciTillN.java)       | D |
 |6.| [Count Digits in Number](https://nados.io/question/count-digits-in-a-number?zen=true)| [26-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/CountDigitsInNumber.java)       | D |
 |7.| [Digits in Number](https://nados.io/question/digits-of-a-number?zen=true)| [26-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/DigitsInNumber.java)       | D |
+|7.| [Reverse a Number](https://nados.io/question/reverse-a-number?zen=true)| [27-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/ReverseNumber.java)       | D |
