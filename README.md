@@ -9,3 +9,4 @@
 |7.| [Digits in Number](https://nados.io/question/digits-of-a-number?zen=true)| [26-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/DigitsInNumber.java)       | D |
 |8.| [Reverse a Number](https://nados.io/question/reverse-a-number?zen=true)| [27-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/ReverseNumber.java)       | D |
 |9.| [Inverse a Number](https://nados.io/question/inverse-of-a-number?zen=true)      | [27-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/InverseNumber.java)       | D |
+|10.| [Rotate a Number](https://nados.io/question/rotate-a-number?zen=true)      | [27-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/RotateANumber.java)       | D |
