@@ -11,4 +11,6 @@
 |9.| [Inverse a Number](https://nados.io/question/inverse-of-a-number?zen=true)      | [27-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/InverseNumber.java)       | D |
 |10.| [Rotate a Number](https://nados.io/question/rotate-a-number?zen=true)      | [27-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/RotateANumber.java)       | D |
 |11.| [GCD and LCM](https://nados.io/question/gcd-and-lcm?zen=true)      | [27-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/GCDLCM.java)       | D |
-|11.| [Prime Factorisation of a Number](https://nados.io/question/prime-factorisation-of-a-number?zen=true)      | [27-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/PrimeFactorisation.java)       | D |
+|12.| [Prime Factorisation of a Number](https://nados.io/question/prime-factorisation-of-a-number?zen=true)      | [27-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/PrimeFactorisation.java)       | D |
+|13.| [Pythagorean Triplet](https://nados.io/question/pythagorean-triplet?zen=true)      | [27-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/PythagoreanTriplet.java)       | D |
+
