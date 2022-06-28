@@ -15,4 +15,5 @@
 |13.| [Pythagorean Triplet](https://nados.io/question/pythagorean-triplet?zen=true)      | [27-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/PythagoreanTriplet.java)       | D |
 |14.| [Curious Case of Benjamin Bulbs](https://nados.io/question/the-curious-case-of-benjamin-bulbs?zen=true)      | [27-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/BenjaminBulbs.java)       | D |
 |15.| [Digit Frequency](https://nados.io/question/digit-frequency?zen=true)      | [28-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/DigitFrequency.java)       | D |
+|16.| [Decimal to Any Base](https://nados.io/question/decimal-to-any-base?zen=true)      | [28-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/DecimalToAnyBase.java)       | D |
 
