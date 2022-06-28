@@ -17,4 +17,5 @@
 |15.| [Digit Frequency](https://nados.io/question/digit-frequency?zen=true)      | [28-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/DigitFrequency.java)       | D |
 |16.| [Decimal to Any Base](https://nados.io/question/decimal-to-any-base?zen=true)      | [28-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/DecimalToAnyBase.java)       | D |
 |17.| [Any Base to Decimal](https://nados.io/question/any-base-to-decimal?zen=true)      | [28-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/AnyBaseToDecimal.java)       | D |
+|18.| [Any Base to Any Base](https://nados.io/question/any-base-to-any-base?zen=true)      | [28-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/AnyBaseToAnyBase.java)       | D R|
 
