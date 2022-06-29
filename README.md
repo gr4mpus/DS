@@ -18,5 +18,6 @@
 |16.| [Decimal to Any Base](https://nados.io/question/decimal-to-any-base?zen=true)      | [28-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/DecimalToAnyBase.java)       | D |
 |17.| [Any Base to Decimal](https://nados.io/question/any-base-to-decimal?zen=true)      | [28-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/AnyBaseToDecimal.java)       | D |
 |18.| [Any Base to Any Base](https://nados.io/question/any-base-to-any-base?zen=true)      | [28-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/AnyBaseToAnyBase.java)       | D R|
-|19.| [Span of Array](https://nados.io/question/span-of-array?zen=true)      | [29-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/SpanOfArray.java)       | D R|
+|19.| [Span of Array](https://nados.io/question/span-of-array?zen=true)      | [29-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/SpanOfArray.java)       | D |
+|20.| [Find Element in an Array](https://nados.io/question/find-element-in-an-array?zen=true)      | [29-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/FindElementInAnArray.java)       | D |
 
