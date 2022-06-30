@@ -22,4 +22,5 @@
 |20.| [Find Element in an Array](https://nados.io/question/find-element-in-an-array?zen=true)      | [29-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/FindElementInAnArray.java)       | D |
 |21.| [Bar Chart](https://nados.io/question/bar-chart?zen=true)      | [29-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/BarChart.java)       | D R-For Negative Numbers|
 |22.| [Reverse an Array](https://nados.io/question/reverse-an-array?zen=true)      | [30-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/ReverseArray.java)       | D |
+|23.| [Rotate an Array](https://nados.io/question/rotate-an-array?zen=true)      | [30-06-22](https://github.com/satanpr/PepCodingDSA/blob/main/RotateAnArray.java)       | D -R - Optimized|
 
