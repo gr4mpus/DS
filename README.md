@@ -26,4 +26,5 @@
 |24.| [Inverse of an Array](https://nados.io/question/inverse-of-an-array?zen=true)      | [1-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/ReverseArray.java)       | D -R - Optimized|
 |25.| [Subarray Problem](https://nados.io/question/subarray-problem?zen=true)      | [2-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/SubArrayProblem.java)       | D -R - Optimized|
 |26.| [Sum of Two Arrays](https://nados.io/question/sum-of-two-arrays?zen=true)      | [4-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/SumOfTwoArrays.java)       | D  - Optimized|
+|27.| [Difference of Two Arrays](https://nados.io/question/difference-of-two-arrays?zen=true)      | [4-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/DifferenceOfTwoArrays.java)       | D  - Optimized|
 
