@@ -31,3 +31,4 @@
 |29.| [First Index and Last Index](https://nados.io/question/first-index-and-last-index?zen=true)      | [8-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/FirstIndexAndLastIndex.java)       | D  - Optimized|
 |30.| [Print Increasing Decreasning](https://nados.io/question/print-increasing-decreasing?zen=true)      | [8-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/PrintIncreasingDecreasing.java)       | D |
 |31.| [Factorial](https://nados.io/question/factorial?zen=true)      | [8-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/Factorial.java)       | D |
+|32.| [Power Linear](https://nados.io/question/power-linear?zen=true)      | [8-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/PowerLinear.java)       | D |
