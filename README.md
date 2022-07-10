@@ -33,3 +33,4 @@
 |31.| [Factorial](https://nados.io/question/factorial?zen=true)      | [8-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/Factorial.java)       | D |
 |32.| [Power Linear](https://nados.io/question/power-linear?zen=true)      | [8-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/PowerLinear.java)       | D |
 |33.| [Print Zigzag](https://nados.io/question/print-zigzag?zen=true)      | [10-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/PrintZigZaG.java)       | D |
+|33.| [Max of an Array](https://nados.io/question/max-of-an-array?zen=true)      | [10-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/MaxOfAnArray.java)       | D |
