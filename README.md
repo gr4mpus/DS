@@ -34,3 +34,8 @@
 |32.| [Power Linear](https://nados.io/question/power-linear?zen=true)      | [8-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/PowerLinear.java)       | D |
 |33.| [Print Zigzag](https://nados.io/question/print-zigzag?zen=true)      | [10-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/PrintZigZaG.java)       | D |
 |33.| [Max of an Array](https://nados.io/question/max-of-an-array?zen=true)      | [10-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/MaxOfAnArray.java)       | D |
+|34.| [First Index](https://nados.io/question/first-index?zen=true)      | [11-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/FirstIndex.java)       | D |
+|35.| [Last Index](https://nados.io/question/last-index?zen=true)      | [11-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/LastIndex.java)       | D |
+|35.| [Last Index](https://nados.io/question/last-index?zen=true)      | [11-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/LastIndex.java)       | D |
+|36.| [All Indices of Array](https://nados.io/question/all-indices-of-array?zen=true)      | [11-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/AllIndicesofArray.java)       | D |
+|37.| [Get Subsequence](https://nados.io/question/get-subsequence?zen=true)      | [11-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/GetSubsequence.java)       | D |
