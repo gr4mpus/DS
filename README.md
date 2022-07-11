@@ -39,3 +39,4 @@
 |35.| [Last Index](https://nados.io/question/last-index?zen=true)      | [11-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/LastIndex.java)       | D |
 |36.| [All Indices of Array](https://nados.io/question/all-indices-of-array?zen=true)      | [11-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/AllIndicesofArray.java)       | D |
 |37.| [Get Subsequence](https://nados.io/question/get-subsequence?zen=true)      | [11-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/GetSubsequence.java)       | D |
+|38.| [Get Stair Paths](https://nados.io/question/get-stair-paths?zen=true)      | [11-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/GetStairPath.java)       | D |
