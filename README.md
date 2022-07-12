@@ -41,4 +41,5 @@
 |37.| [Get Subsequence](https://nados.io/question/get-subsequence?zen=true)      | [11-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/GetSubsequence.java)       | D |
 |38.| [Get Stair Paths](https://nados.io/question/get-stair-paths?zen=true)      | [11-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/GetStairPath.java)       | D |
 |39.| [Get Maze Paths](https://nados.io/question/get-maze-paths?zen=true)      | [12-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/GetMazePaths.java)       | D - R |
-|39.| [Get Maze Paths With Jumps](https://nados.io/question/get-maze-path-with-jumps?zen=true)      | [12-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/GetMazePathsWithJumps.java)       | D |
+|40.| [Get Maze Paths With Jumps](https://nados.io/question/get-maze-path-with-jumps?zen=true)      | [12-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/GetMazePathsWithJumps.java)       | D |
+|41.| [Print Subsequence](https://nados.io/question/print-subsequence?zen=true)      | [12-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/PrintSubsequence.java)       | D |
