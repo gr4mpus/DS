@@ -46,3 +46,5 @@
 |42.| [Print KPC](https://nados.io/question/print-kpc?zen=true)      | [13-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/printKPC.java)       | D |
 |43.| [Print Stair Paths](https://nados.io/question/print-stair-paths?zen=true)      | [14-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/PrintStairPaths.java)       | D |
 |44.| [Print Permutations](https://nados.io/question/print-permutations?zen=true)      | [14-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/PrintPermutation.java)       | D |
+
+|44.| [Print Encodings](https://nados.io/question/print-encodings?zen=true)      | [14-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/PrintEncodings.java)       | D - Optimize|
