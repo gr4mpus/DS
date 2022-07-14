@@ -48,3 +48,4 @@
 |44.| [Print Permutations](https://nados.io/question/print-permutations?zen=true)      | [14-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/PrintPermutation.java)       | D |
 |45.| [Print Encodings](https://nados.io/question/print-encodings?zen=true)      | [14-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/PrintEncodings.java)       | D |
 |46.| [Flood Fill](https://nados.io/question/flood-fill?zen=true)      | [14-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/FloodFill.java)       | D |
+|47.| [Target Sum Subsets](https://nados.io/question/target-sum-subsets?zen=true)      | [14-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/TargetSumSubsets.java)       | ND - RD - O|
