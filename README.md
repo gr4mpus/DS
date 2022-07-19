@@ -52,3 +52,4 @@
 |48.| [N Queens](https://nados.io/question/target-sum-subsets?zen=true)      | [14-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/NQueens.java)       | D - Optimize|
 |49.| [Bubble Sort](https://nados.io/question/bubble-sort?zen=true)      | [18-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/BubbleSort.java)       | D - RD|
 |50.| [Selection Sort](https://nados.io/question/selection-sort?zen=true)      | [18-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/SelectionSort.java)       | D - RD|
+|51.| [Insertion Sort](https://nados.io/question/insertion-sort?zen=true)      | [19-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/InsertionSort.java)       | D - RD|
