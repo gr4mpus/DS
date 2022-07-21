@@ -56,3 +56,4 @@
 |52.| [Merge Two Sorted Array](https://nados.io/question/merge-two-sorted-arrays?zen=true)      | [19-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/MergeTwoSortedArrays.java)       | D - RD|
 |53.| [Balanced Brackets](https://nados.io/question/balanced-brackets?zen=true)      | [21-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/BalancedBrackets.java)       | ND - RD|
 |54.| [Next Greater Element](https://nados.io/question/next-greater-element-to-the-right?zen=true)      | [21-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/NextGreaterElement.java)       | ND - RD|
+|55.| [Largest Area Histogram](https://nados.io/question/largest-area-histogram?zen=true)      | [21-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/LargestAreaHistogram.java)       | D - RD - Optimize|
