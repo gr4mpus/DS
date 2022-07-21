@@ -54,4 +54,5 @@
 |50.| [Selection Sort](https://nados.io/question/selection-sort?zen=true)      | [18-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/SelectionSort.java)       | D - RD|
 |51.| [Insertion Sort](https://nados.io/question/insertion-sort?zen=true)      | [19-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/InsertionSort.java)       | D - RD|
 |52.| [Merge Two Sorted Array](https://nados.io/question/merge-two-sorted-arrays?zen=true)      | [19-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/MergeTwoSortedArrays.java)       | D - RD|
-|52.| [Balanced Brackets](https://nados.io/question/balanced-brackets?zen=true)      | [21-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/BalancedBrackets.java)       | ND - RD|
+|53.| [Balanced Brackets](https://nados.io/question/balanced-brackets?zen=true)      | [21-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/BalancedBrackets.java)       | ND - RD|
+|54.| [Next Greater Element](https://nados.io/question/next-greater-element-to-the-right?zen=true)      | [21-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/NextGreaterElement.java)       | ND - RD|
