@@ -57,3 +57,4 @@
 |53.| [Balanced Brackets](https://nados.io/question/balanced-brackets?zen=true)      | [21-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/BalancedBrackets.java)       | ND - RD|
 |54.| [Next Greater Element](https://nados.io/question/next-greater-element-to-the-right?zen=true)      | [21-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/NextGreaterElement.java)       | ND - RD|
 |55.| [Largest Area Histogram](https://nados.io/question/largest-area-histogram?zen=true)      | [21-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/LargestAreaHistogram.java)       | D - RD - Optimize|
+|56.| [Sliding Window Maximum]()      | [27-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/SlidingWindowMaximum.java)       | D - RD|
