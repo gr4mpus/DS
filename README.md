@@ -59,3 +59,4 @@
 |55.| [Largest Area Histogram](https://nados.io/question/largest-area-histogram?zen=true)      | [21-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/LargestAreaHistogram.java)       | D - RD - Optimize|
 |56.| [Sliding Window Maximum]()      | [27-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/SlidingWindowMaximum.java)       | D - RD|
 |57.| [Fibonacci DP Memoization]()      | [29-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/FibonacciDP.java)       | D - RD|
+|58.| [Climb Stairs DP Memoization](https://nados.io/question/climb-stairs?zen=true)      | [29-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/ClimbStairsDP.java)       | D |
