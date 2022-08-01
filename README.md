@@ -60,3 +60,4 @@
 |56.| [Sliding Window Maximum]()      | [27-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/SlidingWindowMaximum.java)       | D - RD|
 |57.| [Fibonacci DP Memoization]()      | [29-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/FibonacciDP.java)       | D - RD|
 |58.| [Climb Stairs DP Memoization](https://nados.io/question/climb-stairs?zen=true)      | [29-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/ClimbStairsDP.java)       | D |
+|58.| [Climb Stairs with Variable Jumps DP Memoization](https://nados.io/question/climb-stairs-with-variable-jumps?zen=true)      | [1-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/ClimbStairsWithVariableJumps.java)       | D - RD |
