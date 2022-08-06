@@ -62,4 +62,5 @@
 |58.| [Climb Stairs DP Memoization](https://nados.io/question/climb-stairs?zen=true)      | [29-07-22](https://github.com/satanpr/PepCodingDSA/blob/main/ClimbStairsDP.java)       | D |
 |58.| [Climb Stairs with Variable Jumps DP Memoization](https://nados.io/question/climb-stairs-with-variable-jumps?zen=true)      | [1-08-22](https://github.com/satanpr/PepCodingDSA/blob/main/ClimbStairsWithVariableJumps.java)       | D - RD |
 |59.| [Min Cost in Maze Traversal DP Memoization](https://nados.io/question/min-cost-in-maze-traversal?zen=true)      | [3-08-22](https://github.com/satanpr/PepCodingDSA/blob/main/MinCostInMazeTraversal.java)       | D |
-|59.| [Goldmine DP Memoization](https://nados.io/question/goldmine?zen=true)      | [5-08-22](https://github.com/satanpr/PepCodingDSA/blob/main/Goldmine.java)       | D |
+|60.| [Goldmine DP Memoization](https://nados.io/question/goldmine?zen=true)      | [5-08-22](https://github.com/satanpr/PepCodingDSA/blob/main/Goldmine.java)       | D |
+|61.| [Coin Change Combination](https://nados.io/question/coin-change-combination?zen=true)      | [6-08-22](https://github.com/satanpr/PepCodingDSA/blob/main/CoinChangeCombination.java)       | D - RD(DP) |
