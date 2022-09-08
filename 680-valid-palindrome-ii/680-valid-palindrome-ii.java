@@ -4,7 +4,7 @@ class Solution {
     }
     
     public boolean checkRest(int start, int end, String s, boolean flag) {
-        while(start < end) {
+        while(start <= end) {
             if(Character.compare(s.charAt(start), s.charAt(end)) != 0) {
                 if(flag) {
                     return checkRest(start+1, end, s, false) || checkRest(start, end-1, s, false);
