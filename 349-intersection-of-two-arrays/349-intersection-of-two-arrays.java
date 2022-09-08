@@ -23,12 +23,9 @@ class Solution {
         }
         int[] res = new int[map.size()];
         int index = 0;
-        for(int num: nums2) {
-            if(map.containsKey(num) && map.get(num) > 0) {
-                res[index] = num;
-                map.put(num, 0);
-                index++;
-            }
+        for(int num: map.keySet()) {
+            res[index] = num;
+            index++;
         }
         return res;
     }
