@@ -8,7 +8,6 @@ class Solution {
             List<Integer> temp = new ArrayList<Integer>();
             for(int j = 0; j<i; j++) {
                 int left = 0;
-                System.out.println("i "+i+" j"+j);
                 if(j > 0) {
                     left = res.get(i-2).get(j-1);
                 }
@@ -17,10 +16,6 @@ class Solution {
                 if(j+1<i) {
                     right = res.get(i-2).get(j);
                 }
-                    
-                //     j-1 < 0 ? 0 : res.get(i-1).get(j-1);
-                // int right = j+1 == i ? 0 : res.get(i-1).get(j+1);
-                System.out.println("Left "+left+" Right"+right);
                 temp.add(left+right);
             }
             res.add(temp);
