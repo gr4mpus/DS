@@ -47,8 +47,6 @@ class Solution {
                 index++;
                 continue;
             }
-            System.out.println("Operand"+ operand);
-            System.out.println("operator"+ operator);
             if(index<strLen && (str.charAt(index) == '-' || str.charAt(index) == '+' || str.charAt(index) == '*' || str.charAt(index) == '/')) {
                 if(!operator.empty() && getPrecedence(operator.peek()) >= getPrecedence(str.charAt(index))) {
                     while(!operator.empty() && getPrecedence(operator.peek()) >= getPrecedence(str.charAt(index))) {
