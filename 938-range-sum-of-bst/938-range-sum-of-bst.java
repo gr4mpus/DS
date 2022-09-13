@@ -24,8 +24,14 @@ class Solution {
         if(root == null) {
             return 0;
         }
+        int sum = 0;
+        if(root.val > low) {
+            sum+= rangeSumBST(root.left, low, high);
+        }
         
-        int sum = rangeSumBST(root.left, low, high) + rangeSumBST(root.right, low, high);
+        if(root.val < high) {
+            sum+= rangeSumBST(root.right, low, high);
+        }
         if(isInRange(root.val, low, high)) {
             sum+= root.val;
         }
