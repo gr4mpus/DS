@@ -64,3 +64,4 @@
 |59.| [Min Cost in Maze Traversal DP Memoization](https://nados.io/question/min-cost-in-maze-traversal?zen=true)      | [3-08-22](https://github.com/satanpr/PepCodingDSA/blob/main/MinCostInMazeTraversal.java)       | D |
 |60.| [Goldmine DP Memoization](https://nados.io/question/goldmine?zen=true)      | [5-08-22](https://github.com/satanpr/PepCodingDSA/blob/main/Goldmine.java)       | D |
 |61.| [Coin Change Combination](https://nados.io/question/coin-change-combination?zen=true)      | [6-08-22](https://github.com/satanpr/PepCodingDSA/blob/main/CoinChangeCombination.java)       | D - RD(DP) |
+|62.| [Size of Generic Tree](https://nados.io/question/size-of-generic-tree?zen=true)      | [13-09-22](https://github.com/satanpr/DS/blob/main/SizeOfGenericTree.java)       | D  |
