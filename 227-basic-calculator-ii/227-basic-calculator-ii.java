@@ -42,7 +42,6 @@ class Solution {
                     operand.push(Integer.parseInt(num));
                 }
             }
-            
             if(index<strLen && (str.charAt(index) == '-' || str.charAt(index) == '+' || str.charAt(index) == '*' || str.charAt(index) == '/')) {
                 if(!operator.empty() && getPrecedence(operator.peek()) >= getPrecedence(str.charAt(index))) {
                     while(!operator.empty() && getPrecedence(operator.peek()) >= getPrecedence(str.charAt(index))) {
