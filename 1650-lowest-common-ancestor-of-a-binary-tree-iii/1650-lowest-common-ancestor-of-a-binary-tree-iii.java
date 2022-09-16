@@ -10,6 +10,7 @@ class Node {
 
 class Solution {
     public Node lowestCommonAncestor(Node p, Node q) {
+//         Filling up all the parents of p in the queue and then checking all the possible children
 //         Queue<Node> queue = new LinkedList<>();
 //         getPath(p, queue);
         
@@ -20,6 +21,8 @@ class Solution {
 //             }
 //         }
 //         return null;
+        
+//      Putting all the ancestor's value of P in the HashSet and then comparing the parent of the Q
         HashSet<Integer> set = new HashSet<>();
         getHashParentPath(p, set);
         return getHashRes(q, set);
@@ -33,25 +36,25 @@ class Solution {
         getHashParentPath(p.parent, set);
     }
     
-    public void getPath(Node p, Queue<Node> queue) {
-        if(p == null) {
-            return;
-        }
-        queue.add(p);
-        getPath(p.parent, queue);
-    }
+//     public void getPath(Node p, Queue<Node> queue) {
+//         if(p == null) {
+//             return;
+//         }
+//         queue.add(p);
+//         getPath(p.parent, queue);
+//     }
     
-    public boolean getParentPath(Node q, Node parent) {
-        if(parent == null) {
-            return false;
-        }
-        if(parent.val == q.val) {
-            return true;
-        }
-        boolean left = getParentPath(q, parent.left);
-        boolean right = getParentPath(q, parent.right);
-        return left || right;
-    }
+//     public boolean getParentPath(Node q, Node parent) {
+//         if(parent == null) {
+//             return false;
+//         }
+//         if(parent.val == q.val) {
+//             return true;
+//         }
+//         boolean left = getParentPath(q, parent.left);
+//         boolean right = getParentPath(q, parent.right);
+//         return left || right;
+//     }
     
     public Node getHashRes(Node q, HashSet<Integer> set) {
         // if(q == null) {
