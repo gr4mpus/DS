@@ -22,7 +22,6 @@ class Solution {
 //         return null;
         HashSet<Integer> set = new HashSet<>();
         getHashParentPath(p, set);
-        System.out.println(set);
         return getHashRes(q, set);
     }
     
