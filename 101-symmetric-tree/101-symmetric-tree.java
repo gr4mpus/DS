@@ -39,7 +39,5 @@ class Solution {
         }else {
             return false;
         }
-        
-        // return first && second;
     }
 }
