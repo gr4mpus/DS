@@ -12,7 +12,6 @@ class Solution
 {
     public static void sort012(int a[], int n)
     {
-        int[] arr = new int[n];
         int z = 0, o = 0, t = 0;
         for(int i=0; i<n; i++) {
             if(a[i] == 0) {
